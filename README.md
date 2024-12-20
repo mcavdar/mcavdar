@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### :books: Latest Blog Posts
+
+* [Automate Ubuntu Installation](https://mcavdar.com/blog/automate-ubuntu-installation) *(published on Fri, 20 Dec 2024)*
+* [Carry On](https://mcavdar.com/blog/carry-on) *(published on Fri, 13 Dec 2024)*
+* [QwQ model on Ollama](https://mcavdar.com/blog/qwq-model-on-ollama) *(published on Thu, 28 Nov 2024)*
+* [How to Emulate Ollama](https://mcavdar.com/blog/how-to-emulate-ollama) *(published on Sun, 17 Nov 2024)*
+* [Jupyter AI Language Model Provider Issue](https://mcavdar.com/blog/jupyter-ai-language-model-provider-issue) *(published on Sun, 10 Nov 2024)*
+
+... And several additional articles are available [on my blog](https://mcavdar.com/). Check it out!
 <!--
 **mcavdar/mcavdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
