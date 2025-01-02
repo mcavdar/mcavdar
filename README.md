@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+### :pencil: Latest activities
+
+| Activity | Repository |
+| --- | --- |
+| [Structured_output in Agent #28904 ](https://github.com/langchain-ai/langchain/discussions/28904) | [`langchain`](https://github.com/langchain-ai/langchain) |
+| [docs/concepts/tool_calling/ #28109 ](https://github.com/langchain-ai/langchain/discussions/28109?notification_referrer_id=NT_kwDOAD4jNrMxMzM2MjgzNDU4Nzo0MDcyMjQ2#discussioncomment-11254881) | [`langchain`](https://github.com/langchain-ai/langchain) |
+| [duplicate messages in the query #428 ](https://github.com/run-llama/create-llama/issues/428) | [`create-llama`](https://github.com/run-llama/create-llama) |
+| [Fix /export by including streamed agent messages #1077 ](https://github.com/jupyterlab/jupyter-ai/pull/1077) | [`jupyter-ai`](https://github.com/jupyterlab/jupyter-ai) |
+| [OpenAI provider not accessilbe #1082 ](https://github.com/jupyterlab/jupyter-ai/issues/1082) | [`jupyter-ai`](https://github.com/jupyterlab/jupyter-ai) |
+| [ModuleNotFoundError: No module named 'tree_sitter' #11273 ](https://github.com/run-llama/llama_index/issues/11273?notification_referrer_id=NT_kwDOAD4jNrI5NTY1NjMzNzM3OjQwNzIyNDY#issuecomment-2464210554) | [`llama_index`](https://github.com/run-llama/llama_index) |
+| [LLMAgent doesn't support Ollama (needs LITS update) #401 ](https://github.com/run-llama/create-llama/issues/401#issuecomment-2451921920) | [`create-llama`](https://github.com/run-llama/create-llama) |
+
+
 ### :books: Latest Blog Posts
 
 * [Automate Ubuntu Installation](https://mcavdar.com/blog/automate-ubuntu-installation) *(published on Fri, 20 Dec 2024)*
