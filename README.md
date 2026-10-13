@@ -6,13 +6,17 @@ I build and improve AI tooling, work on open-source integrations, and share prac
 
 | Contribution | Project |
 | --- | --- |
-| [Structured output in Agent #28904](https://github.com/langchain-ai/langchain/discussions/28904) | [`langchain`](https://github.com/langchain-ai/langchain) |
-| [docs/concepts/tool_calling #28109](https://github.com/langchain-ai/langchain/discussions/28109) | [`langchain`](https://github.com/langchain-ai/langchain) |
-| [Duplicate messages in the query #428](https://github.com/run-llama/create-llama/issues/428) | [`create-llama`](https://github.com/run-llama/create-llama) |
-| [Fix /export by including streamed agent messages #1077](https://github.com/jupyterlab/jupyter-ai/pull/1077) | [`jupyter-ai`](https://github.com/jupyterlab/jupyter-ai) |
-| [OpenAI provider not accessible #1082](https://github.com/jupyterlab/jupyter-ai/issues/1082) | [`jupyter-ai`](https://github.com/jupyterlab/jupyter-ai) |
-| [ModuleNotFoundError: No module named 'tree_sitter' #11273](https://github.com/run-llama/llama_index/issues/11273) | [`llama_index`](https://github.com/run-llama/llama_index) |
-| [LLMAgent doesn't support Ollama (needs LITS update) #401](https://github.com/run-llama/create-llama/issues/401) | [`create-llama`](https://github.com/run-llama/create-llama) |
+| [Align KaTeX versions across math renderers #326](https://github.com/langchain-ai/agent-chat-ui/pull/326) | [`agent-chat-ui`](https://github.com/langchain-ai/agent-chat-ui) |
+| [Report KaTeX version mismatch #327](https://github.com/langchain-ai/agent-chat-ui/issues/327) | [`agent-chat-ui`](https://github.com/langchain-ai/agent-chat-ui) |
+| [POSTGRES_PORT breaks Docker Compose startup #616](https://github.com/aegra/aegra/issues/616) | [`aegra`](https://github.com/aegra/aegra) |
+| [Enhance streaming output for agent messages #2389](https://github.com/langchain-ai/docs/pull/2389) | [`langchain-ai/docs`](https://github.com/langchain-ai/docs) |
+| [Move ToolCallRequest import #2358](https://github.com/langchain-ai/docs/pull/2358) | [`langchain-ai/docs`](https://github.com/langchain-ai/docs) |
+
+### Current projects
+
+- [Envai Chat](https://github.com/mcavdar/envai-chat) - Chat UI
+- [Mock LLM](https://github.com/mcavdar/mock-llm) - Lightweight mock LLM server for deterministic local development and testing
+- [DeepAgents Tests](https://github.com/mcavdar/deepagents-tests)
 
 ### Highlights
 
@@ -22,11 +26,11 @@ I build and improve AI tooling, work on open-source integrations, and share prac
 
 ### Latest blog posts
 
+* [DeepAgents Creates a File You Can't Find](https://mcavdar.com/blog/deepagents-creates-a-file-you-cant-find)
+* [A Small Experiment on Meta's Open Research Direction](https://mcavdar.com/blog/a-small-experiment-on-metas-open-research-direction)
+* [Amazon vs ChatGPT: Who Should You Trust on the Internet?](https://mcavdar.com/blog/amazon-vs-chatgpt-who-should-you-trust-on-the-internet)
 * [Automate Ubuntu Installation](https://mcavdar.com/blog/automate-ubuntu-installation)
-* [Carry On](https://mcavdar.com/blog/carry-on)
-* [QwQ model on Ollama](https://mcavdar.com/blog/qwq-model-on-ollama)
-* [How to Emulate Ollama](https://mcavdar.com/blog/how-to-emulate-ollama)
-* [Jupyter AI Language Model Provider Issue](https://mcavdar.com/blog/jupyter-ai-language-model-provider-issue)
+* [Basic Chatbot in LangGraph](https://mcavdar.com/blog/basic-chatbot-in-langgraph)
 
 More posts and notes are available on [my website](https://mcavdar.com/).
 
@@ -35,4 +39,3 @@ More posts and notes are available on [my website](https://mcavdar.com/).
 - Website: [mcavdar.com](https://mcavdar.com/)
 - GitHub: [@mcavdar](https://github.com/mcavdar)
 - Blog: [mcavdar.com/blog](https://mcavdar.com/blog)
-
